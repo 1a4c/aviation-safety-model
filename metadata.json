@@ -1,0 +1,6 @@
+{
+  "name": "Avionics & UAV Guidance Firmware Simulator",
+  "description": "航太與無人機導航控制韌體模擬器：布朗運動漂移模型、強化捕獲週期、受保護硬體佇列（Sheltered Queue）與離散卡爾曼濾波器姿態校準。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
